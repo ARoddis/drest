@@ -1,5 +1,5 @@
 {
-    "name": "leedavis81/drest",
+    "name": "aroddis/drest",
     "description": "Create a fully featured REST API service from Doctrine 2 Entity annotations.",
     "keywords": ["rest", "api", "doctrine2"],
     "license": "MIT",
